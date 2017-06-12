@@ -1,0 +1,66 @@
+<!-- 
+This HTML document contains a javascipt implementation that generates formated HTML <table> tags to display content from any sources.
+
+Usage: 
+Step 1: Edit the 'image_urls.js' file to include any information you want to be displayed.
+Step 2: Edit the 'cells_per_row' variable, to determine how many cells are there in each row of the generated HTML table.
+Step 3: Open the HTML file 'wy_table.html'. A table containing information from 'image_urls.js' will be shown. Also the HTML required to create the table is generated.
+-->
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- This <p> segment contains the generated HTML. -->
+<p>&lttable&gt
+<div id="wy_code"></div>
+&lt/table&gt
+</p>
+
+<!-- This <table> will display the actual table. -->
+<table id="wy_table"></table>
+
+<!-- Defines the entries to be inserted into the table cells. -->
+<script src="flora_urls.js"></script>
+
+<script>
+var cells_per_row = 2; /* Number of cells per row in the table. */
+var table_format='';
+var num_rows = 0;
+var num_blank_cells = image_links.length % cells_per_row; /* There may be blank cells in the table depending on the number of array elements defined in "image_urls.js". */
+var k=0;
+
+/* Pad any empty cells in the table with blanks. */
+for(i=0; i<num_blank_cells; i++) {
+	image_links.push("");
+}
+
+/* Finalise the number of rows in the table. */
+num_rows = image_links.length / cells_per_row;
+
+/* Print the <table> HTML! */
+for(i=0; i<num_rows; i++) {
+	table_format = table_format+'<tr>';
+	for(j=0; j<cells_per_row; j++) {
+		table_format = table_format+'<td>'+image_links[k]+'</td>';
+		k = k+1;
+	}
+	table_format = table_format+'</tr>';
+}
+
+/* Insert Flickr-specific formating "class="aligncenter size-full"" to align images. */
+table_format = table_format.replace(/<img src=/g, "<img class=\"aligncenter size-full\" src=");
+
+/* Insert our <table> HTML into the document. */
+document.getElementById("wy_table").innerHTML=table_format;
+
+/* Print out HTML code we used to display the table. We need to replace the '<' and '>' characters and add in line breaks to make the code readable. */
+table_format = table_format.replace(/</g, "&lt");
+table_format = table_format.replace(/>/g, "&gt");
+table_format = table_format.replace(/\/tr&gt/g, "/tr&gt<br>");
+table_format = table_format.replace(/\/td&gt/g, "/td&gt<br>");
+document.getElementById("wy_code").innerHTML=table_format;
+
+</script>
+
+</body>
+</html>
