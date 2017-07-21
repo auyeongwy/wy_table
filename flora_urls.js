@@ -1,4 +1,16 @@
 var image_links = [
+'<a href="https://www.flickr.com/photos/auywy/10867990005/in/album-72157633830398322/" title="Chrysanthemum fireworks"><img src="https://farm3.staticflickr.com/2832/10867990005_e86c66b425_n.jpg" width="320" height="213" alt="Chrysanthemum fireworks"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/9462757863/in/album-72157633830398322/" title="Dwarf fir"><img src="https://farm8.staticflickr.com/7293/9462757863_c3109c71d1_n.jpg" width="320" height="213" alt="Dwarf fir"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/9462764425/in/album-72157633830398322/" title="Shy blushing wink"><img src="https://farm4.staticflickr.com/3821/9462764425_d30b8fc296_n.jpg" width="320" height="213" alt="Shy blushing wink"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/9462753693/in/album-72157633830398322/" title="Pollen!"><img src="https://farm8.staticflickr.com/7457/9462753693_97ac92a578_n.jpg" width="320" height="213" alt="Pollen!"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/9669842289/in/album-72157633830398322/" title="The quiet carnivore"><img src="https://c1.staticflickr.com/3/2843/9669842289_daeb8dc433_n.jpg" width="213" height="320" alt="The quiet carnivore"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/10820994516/in/album-72157633830398322/" title="A portrait of flora"><img src="https://farm4.staticflickr.com/3695/10820994516_e99f544a05_n.jpg" width="213" height="320" alt="A portrait of flora"></a>',
+
 '<a href="https://www.flickr.com/photos/auywy/10535442065/in/album-72157633830398322/" title="Alien bloom (Veronica in bloom)"><img src="https://c1.staticflickr.com/8/7420/10535442065_5d93c2c394_n.jpg" width="213" height="320" alt="Alien bloom (Veronica in bloom)"></a>',
 
 '<a href="https://www.flickr.com/photos/auywy/34972484832/in/dateposted-public/" title="Shining bright in the gloom"><img src="https://c1.staticflickr.com/5/4215/34972484832_60f46c8435_n.jpg" width="320" height="213" alt="Shining bright in the gloom"></a>',
