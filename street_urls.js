@@ -5,6 +5,16 @@ var image_links = [
 
 '<a href="https://www.flickr.com/photos/auywy/18558379529/in/album-72157648249054783/" title="Friends Hugging And Putting On A Necklace"><img class="aligncenter size-full" src="https://c1.staticflickr.com/1/457/18558379529_2b89d6cca5_n.jpg" width="320" height="213" alt="Friends Hugging And Putting On A Necklace"></a>',
 
+'<a href="https://www.flickr.com/photos/auywy/17241827512/in/photolist-sgASC9-iUxCyA-iDpt25-iAmc99-iAe2jk" title="Cambodian City Village People And Children"><img src="https://farm9.staticflickr.com/8827/17241827512_4e9c026ab7_n.jpg" width="320" height="213" alt="Cambodian City Village People And Children"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/11752694314/in/photolist-sgASC9-iUxCyA" title="Cambodia Phnom Penh Village Toddler And Volunteer"><img src="https://farm6.staticflickr.com/5495/11752694314_b67e56931f_n.jpg" width="320" height="213" alt="Cambodia Phnom Penh Village Toddler And Volunteer"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/35520919163/in/dateposted-public/" title="The Photo Booth"><img src="https://farm5.staticflickr.com/4351/35520919163_5002c1c519_n.jpg" width="213" height="320" alt="The Photo Booth"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/8935812874/in/photolist-rzCWVQ-eBCnRd" title="A night at the fancy takeaway"><img src="https://farm6.staticflickr.com/5468/8935812874_a4e3fcb9e0_n.jpg" width="320" height="213" alt="A night at the fancy takeaway"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/9799940895/in/photolist-SBFddf-RmFhPA-Sinqkz-S7XWTJ-SejP9a-EC3WM2-DLZrst-J39F8w-AZocN6-AM7by6-reZQ2M-jSv2HS-jKrfNR-k3uWyz-jM9oL5-jxriZx-sx1gfz-gFmisC-fTC5sQ-fVZg1c-hJ2eoA" title="That one for my grand kid!"><img src="https://farm8.staticflickr.com/7349/9799940895_144d9d894c_n.jpg" width="320" height="213" alt="That one for my grand kid!"></a>',
+
 '<a href="https://www.flickr.com/photos/auywy/10067004585/in/photolist-VZ1n7Q-TDbMzn-RmMvoi-NTea6g-Mz7LDm-CWKFif-CHs7rw-woSfmh-uerE4P-rv7SMJ-q49Xdu-quxvvJ-pgVU1q-penTvB-mVSBvg-ozvNYz-mG3PrU-j4rTSv-irMABf-iw4p4Z-jegTw1-iCgXNe-gkA2Jz-g5AdqK-fNutGv-fBG4Pb-fyrixm-eBDXwN-eBDaRE-eyx4my" title="Quiet Foggy Urban City"><img src="https://farm4.staticflickr.com/3817/10067004585_815db2415d_n.jpg" width="320" height="213" alt="Quiet Foggy Urban City"></a>',
 
 '<a href="https://www.flickr.com/photos/auywy/9598246055/in/photolist-fCaw9X" title="Surveyor With Theodolite On Urban Road"><img src="https://farm6.staticflickr.com/5485/9598246055_17c8b38108_n.jpg" width="320" height="213" alt="Surveyor With Theodolite On Urban Road"></a>',
