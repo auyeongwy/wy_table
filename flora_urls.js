@@ -1,4 +1,10 @@
 var image_links = [
+'<a href="https://www.flickr.com/photos/auywy/29701085702/in/photolist-Xsq5Bg-MfzQ1w-UdyRmY-U8Pktv-Vb42tT-Vb42qB-VZ1n7Q-rVcGwx-kZSDNV-ksv1F7-V2zMW5-kwggac-kiXx5V-iQDeSY-i9duao-UDuSZ1" title="Tiny Green Chrysanthemums"><img src="https://farm8.staticflickr.com/7692/29701085702_9d84f6f9cf_n.jpg" width="320" height="213" alt="Tiny Green Chrysanthemums"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/35550383654/in/dateposted-public/" title="Red Floral Abstract On White Background"><img src="https://farm5.staticflickr.com/4422/35550383654_4cb8b08b58_n.jpg" width="320" height="213" alt="Red Floral Abstract On White Background"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/36398549325/in/dateposted-public/" title="Singapore 2017: Green Buds Along The Street"><img src="https://farm5.staticflickr.com/4373/36398549325_15f2390865_n.jpg" width="320" height="213" alt="Singapore 2017: Green Buds Along The Street"></a>',
+
 '<a href="https://www.flickr.com/photos/auywy/10867990005/in/album-72157633830398322/" title="Chrysanthemum fireworks"><img src="https://farm3.staticflickr.com/2832/10867990005_e86c66b425_n.jpg" width="320" height="213" alt="Chrysanthemum fireworks"></a>',
 
 '<a href="https://www.flickr.com/photos/auywy/9462757863/in/album-72157633830398322/" title="Dwarf fir"><img src="https://farm8.staticflickr.com/7293/9462757863_c3109c71d1_n.jpg" width="320" height="213" alt="Dwarf fir"></a>',
