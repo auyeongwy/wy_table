@@ -1,4 +1,8 @@
 var image_links = [
+'<a href="https://www.flickr.com/photos/auywy/35895676040/in/dateposted-public/" title="Singapore 2017: Life Among Geometry 2"><img src="https://farm5.staticflickr.com/4305/35895676040_9ee70781b6_n.jpg" width="213" height="320" alt="Singapore 2017: Life Among Geometry 2"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/36158136466/in/dateposted-public/" title="Singapore 2017: Haji Lane"><img src="https://farm5.staticflickr.com/4316/36158136466_b4fd55fb16_n.jpg" width="320" height="213" alt="Singapore 2017: Haji Lane"></a>',
+
 '<a href="https://www.flickr.com/photos/auywy/35052721686/in/dateposted-public/" title="Singapore 2017: Window Cleaners Working On A Hotel"><img src="https://c1.staticflickr.com/5/4243/35052721686_745259aab5_n.jpg" width="213" height="320" alt="Singapore 2017: Window Cleaners Working On A Hotel"></a>',
 
 '<a href="https://www.flickr.com/photos/auywy/34347952683/in/dateposted-public/" title="Singapore 2017: People Among Urban Geometry"><img src="https://c1.staticflickr.com/5/4282/34347952683_b0c9d34f26_n.jpg" width="213" height="320" alt="Singapore 2017: People Among Urban Geometry">',
