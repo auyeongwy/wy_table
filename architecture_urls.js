@@ -17,6 +17,8 @@ var image_links = [
 
 '<a href="https://www.flickr.com/photos/auywy/29053381270/in/photolist-Lgmb3J-LwiHrB" title="Seoul 2016: City Hall Interior And Green Wall"><img src="https://farm9.staticflickr.com/8035/29053381270_51ab761e15_n.jpg" width="214" height="320" alt="Seoul 2016: City Hall Interior And Green Wall"></a>',
 
+'<a href="https://www.flickr.com/photos/auywy/27098221481/in/album-72157649995470440/" title="Seoul 2016: Architecture And Art In A Mall"><img src="https://farm8.staticflickr.com/7097/27098221481_b248d393a0_n.jpg" width="214" height="320" alt="Seoul 2016: Architecture And Art In A Mall"></a>',
+
 '<a href="https://www.flickr.com/photos/auywy/23376311414/in/photolist-BH9wCV-BBFGXY" title="Taipei 101 Mall Ceiling Detail 1"><img src="https://farm6.staticflickr.com/5766/23376311414_df20f56a46_n.jpg" width="214" height="320" alt="Taipei 101 Mall Ceiling Detail 1"></a>',
 
 '<a href="https://www.flickr.com/photos/auywy/30411348240/in/photolist-Nkm7jm-MSeDZ2-nRxh8c-nQAVDF-nLBHqj-nZCX5T-qG1gDt-nD7XXC-nUKxJQ-sdc1ZJ-nujvaD-nSEFDN-nWPZaY-nJ3fZG-nxDHiF-nS2AN9" title="Singapore 2016: Orchard Central Layers"><img src="https://farm6.staticflickr.com/5328/30411348240_b6ce9b45f6_n.jpg" width="214" height="320" alt="Singapore 2016: Orchard Central Layers"></a>',
@@ -37,7 +39,11 @@ var image_links = [
 
 '<a href="https://www.flickr.com/photos/auywy/29562959670/in/album-72157649995470440/" title="Coloured Ceiling Skylight"><img src="https://farm9.staticflickr.com/8817/29562959670_7d4f31bbf8_n.jpg" width="320" height="213" alt="Coloured Ceiling Skylight"></a>',
 
+'<a href="https://www.flickr.com/photos/auywy/23947312629/in/album-72157649995470440/" title="Singapore National Gallery: Interior 1"><img src="https://farm2.staticflickr.com/1602/23947312629_eaa98cb665_n.jpg" width="320" height="214" alt="Singapore National Gallery: Interior 1"></a>',
+
 '<a href="https://www.flickr.com/photos/auywy/24957718695/in/photolist-LwiHrB-E2qQfK-DPmUfp-CWKFif-DwWo6S-DLPMWk-D2K5Ho-Cu9eJv-ux3NHQ" title="Singapore National Gallery: Overlooking The Rotunda 4"><img src="https://farm2.staticflickr.com/1579/24957718695_e5c7bb85cb_n.jpg" width="320" height="214" alt="Singapore National Gallery: Overlooking The Rotunda 4"></a>',
+
+'<a href="https://www.flickr.com/photos/auywy/24635305692/in/album-72157649995470440/" title="Singapore National Gallery: Interior Courtyard 1"><img src="https://farm2.staticflickr.com/1646/24635305692_b31d409815_n.jpg" width="320" height="214" alt="Singapore National Gallery: Interior Courtyard 1"></a>',
 
 '<a href="https://www.flickr.com/photos/auywy/24792451035/in/photolist-LwiHrB-E2qQfK-DPmUfp-CWKFif-DwWo6S-DLPMWk-D2K5Ho-Cu9eJv-ux3NHQ" title="Singapore National Gallery: Interior Courtyard 2"><img src="https://farm2.staticflickr.com/1622/24792451035_3cd7324307_n.jpg" width="320" height="214" alt="Singapore National Gallery: Interior Courtyard 2"></a>',
 
