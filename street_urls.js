@@ -1,4 +1,6 @@
 var image_links = [
+'<a href="https://www.flickr.com/photos/auywy/42536482181/in/dateposted-public/" title="2018 Singapore. Tourists shopping accessories in Bugis Street."><img src="https://farm2.staticflickr.com/1745/42536482181_b093e252bf_n.jpg" width="320" height="214" alt="2018 Singapore. Tourists shopping accessories in Bugis Street."></a>',
+
 '<a href="https://www.flickr.com/photos/auywy/40063358632/in/dateposted-public/" title="2018 Stockholm: Winter Morning Commute In The Snow"><img src="https://farm5.staticflickr.com/4621/40063358632_0af182112b_n.jpg" width="214" height="320" alt="2018 Stockholm: Winter Morning Commute In The Snow"></a>',
 
 '<a href="https://www.flickr.com/photos/auywy/38462277282/in/dateposted-public/" title="Reflections And Colours"><img src="https://farm5.staticflickr.com/4560/38462277282_33d182b53a_n.jpg" width="214" height="320" alt="Reflections And Colours"></a>',
